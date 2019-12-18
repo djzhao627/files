@@ -3,7 +3,7 @@
     "apps": [],
     "details": {
       "A5WE864WX8.com.ygf.customery": {
-        "paths":[ "*" ]
+        "paths":[ "/files/*" ]
       }
     }
   }
